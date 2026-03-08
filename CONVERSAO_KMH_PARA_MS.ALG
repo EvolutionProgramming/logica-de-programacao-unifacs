@@ -1,4 +1,4 @@
-Algoritmo "Convers„o kmh para ms"
+Algoritmo "Convers√£o kmh para ms"
 
 Var
    km:real
@@ -11,7 +11,7 @@ Inicio
 
    m<- km/3.6
 
-   escreval(km,"km/h È equivalente ‡ ",m," m/s")
+   escreval(km,"km/h √© equivalente √† ",m," m/s")
 
 
 Fimalgoritmo
