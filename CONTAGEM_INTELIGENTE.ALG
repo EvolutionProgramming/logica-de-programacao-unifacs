@@ -1,14 +1,14 @@
 Algoritmo "Contagem_Inteligente"
 
 Var
-   a,b,cont:inteiro
+   a,b:inteiro
 
 
 
 Inicio
-   escreval("Digite o primeiro número do intervalo:")
+   escreval("Digite o primeiro nÃºmero do intervalo:")
    leia(a)
-   escreval("Digite o segundo número do intervalo:")
+   escreval("Digite o segundo nÃºmero do intervalo:")
    leia(b)
 
    se (a < b) entao
